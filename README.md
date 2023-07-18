@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bodx0uc7cfi08evk/branch/main?svg=true)](https://ci.appveyor.com/project/IgorKalenkov/autoqa-homeworks-2-3/branch/main)
